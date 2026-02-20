@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center">Languages I know/understand:</h2>
+<h2 align="center">Languages i understand:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
