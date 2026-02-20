@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center"Languages I know/understand:</h2>
+<h2 style="text-align: center;">Languages I know/understand:</h2>
 
 ###
 
