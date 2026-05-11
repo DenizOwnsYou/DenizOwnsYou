@@ -1,8 +1,6 @@
-<h2 align="center">Hi 👋! My name is Deniz and I love Coding!</h2>
+<h2 align="center">Hi, I'm xtra, Frontend Developer</h2>
 
-###
-
-<h2 align="center">I'm a 14 year old Software Engineer and a Vibe Coader.</h2>
+<h2 align="center">I build fast, modern, aesthetic websites with smooth animations and clean code.</h2>
 
 ###
 
