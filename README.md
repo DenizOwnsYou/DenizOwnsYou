@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm deniz, Frontend Developer</h2>
+<h2 align="center">Hi, I'm Deniz, Frontend Developer</h2>
 
 <h2 align="center">I build fast, modern, aesthetic websites with smooth animations and clean code.</h2>
 
